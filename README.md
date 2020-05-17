@@ -1,17 +1,17 @@
 # hammer121.py
 Hammer121.py
-# Tool-X
+# hammer121
 
-[![Build Status](https://img.shields.io/github/forks/rajkumardusad/Tool-X.svg)](https://github.com/rajkumardusad/Tool-X)
-[![Build Status](https://img.shields.io/github/stars/rajkumardusad/Tool-X.svg)](https://github.com/rajkumardusad/Tool-X)
-[![License](https://img.shields.io/github/license/rajkumardusad/Tool-X.svg)](https://github.com/rajkumardusad/Tool-X)
-[![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#Tool-X)
+[![Build Status](https://img.shields.io/github/forks/rajkumardusad/Tool-X.svg)](https://github.com/aminismayiloff/hammer121.py/pull/1)
+[![Build Status](https://img.shields.io/github/stars/rajkumardusad/Tool-X.svg)](https://github.com/aminismayiloff/hammer121.py/pull/1)
+[![License](https://github.com/aminismayiloff/hammer121.py/pull/1)
+[![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://github.com/aminismayiloff/hammer121.py/pull/1)
 
 ------------------------------------------------------------------------
 
 ### Introduction
 
-*Tool-X is a Kali Linux hacking tools installer for Termux and linux system.*
+*hammer121 is a Kali Linux hacking tools installer for Termux and linux system.*
 Tool-X was developed for Termux and other android terminals. Using Tool-X, you can install almost 370+ hacking tools in Termux (android) and other Linux based distributions. Now Tool-X is available for Ubuntu, Debian etc.
 
 <br>
